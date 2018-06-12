@@ -16,7 +16,7 @@
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.0.0-beta.36",
-    "@babel/preset-env": "^7.0.0-beta.36",
+    "@babel/preset-env": "7.0.0-beta.50",
     "@babel/preset-react": "^7.0.0-beta.36",
     "ava": "^0.25.0",
     "axios": "^0.18.0",
